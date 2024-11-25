@@ -24,7 +24,7 @@ This project was created as part of the **Computational Intelligence in Business
 ### **Data Requirements**  
 
 The program requires the dataset `openbookultraAA_N20130403_1_of_1` from the NYSE OpenBook history. This dataset can be downloaded using FTP from the following link:  
-**[Download Data from NYSE](ftp://ftp.nyxdata.com/Historical%20Data%20Samples/TAQ%20NYSE%20OpenBook/)**  
+**[Download Data from NYSE](ftp://ftp.nyxdata.com/Historical%20Data%20Samples/TAQ%20NYSE%20OpenBook/)**  (ftp://ftp.nyxdata.com/Historical%20Data%20Samples/TAQ%20NYSE%20OpenBook/)
 
 #### **Steps for Data Preparation**  
 1. Download the dataset.  
